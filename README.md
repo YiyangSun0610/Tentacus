@@ -2,6 +2,8 @@
 
 A Mixed Reality Ritual for Distributed Bodies and Emergent Minds
 
+[Project Website](https://czyzz00.github.io)
+
 In Tentacus, dancers form a living organism — a decentralized body with many minds. Holding left hands together in a continuous ring, they ground themselves in shared presence. Their right hands, free and curious, reach outward to explore a digitally layered world, sensing, touching, and activating hidden phenomena.
 
 Each dancer is a tentacle of the Tentacus: a being with no central brain, but intelligence distributed across limbs. Inspired by the neurophysiology of the octopus, where each arm thinks independently yet moves in concert, this performance explores a new choreography of cognition — one enacted through protocols of movement, somatic alignment, and mixed reality augmentation.
